@@ -24,3 +24,5 @@ rebel.xml
 .metadata
 mifosng-provider/.bpmn
 !mifosng-provider/lib/*.jar
+clientData.csv
+LoanCycleWithUCIC.csv
